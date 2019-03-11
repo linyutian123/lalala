@@ -1,0 +1,155 @@
+.nav-wrap{
+	width:100%;
+	height:128px;
+	background:#6BC048;
+}
+body{
+	font-size: 12px;
+	font-family: arial 微软雅黑;
+}
+.nav-wrap .ef{
+	width:1003px;
+	height:128px;
+	margin: 0 auto
+}
+.nav-wrap .sd{
+	width:1401px;
+	height:20px;
+	margin-top:-20px;
+}
+.navbar-default{
+	width:1003px;
+	height:58px;
+	margin:0 auto;
+	margin-top:80px;
+	background:#fff;
+}
+.navbar-default .container-fluid{
+	width:1003px;
+	height:58px;
+	background: #fff;
+}
+.navbar-default .container-fluid .navbar-header{
+   width:80px;
+   height:50px;
+}
+.navbar-default .container-fluid .navbar-header img{
+	float:left;
+}
+.navbar-default .container-fluid .navbar-header .navbar-brand{
+	font-size: 15px;
+	float: right;
+}
+.navbar-default .container-fluid .navbar-nav{
+	width:800px;
+	height:50px;
+}
+.navbar-default .container-fluid .navbar-nav .dropdown-toggle{
+	width:140px
+    height:45px;
+}
+.navbar-default .container-fluid .navbar-nav a{
+	margin:0 20px;
+}
+.navbar-default .container-fluid .navbar-nav .es{
+	width:130px 
+	height:60px;
+}
+.navbar-default .container-fluid .navbar-nav .as{
+	width:130px;
+	height:60px;
+}
+.navbar-default .container-fluid .navbar-nav .sf{
+	width:130px;
+	height:60px;
+}
+.navbar-default .container-fluid .navbar-nav .dropdown-togle{
+	color:#666;
+}
+.navbar-default .container-fluid .navbar-nav .dropdown-menu{
+	background: #CAE299;
+}
+.nav-lg{
+	width:888px;
+	height:4300px;
+	margin:0 auto;
+}
+.nav-lg .sc{
+	width:885px;
+	height:483px;
+}
+.nav-lg .sd{
+	width:885px;
+	height:335px;
+	background: #f60;
+}
+.nav-lg .se{
+   width:885px;
+   height:255px;
+   margin-top:-10px;
+    
+}
+.nav-lg .we{
+	margin-top:-9px;
+}
+.nav-lg .sh{
+	margin-top:-10px;
+}
+.nav-lg .he{
+	margin-top:-10px;
+}
+.nav-lg .why{
+	margin-top:-10px;
+}
+.nav-lg .what{
+	margin-top:-10px;
+}
+.nav-lg .at{
+	margin-top:-10px;
+}
+.nav-lg .wh{
+	margin-top:-10px;
+}
+ .nav-lg .nav-we{
+	width:888px;
+	height:51px;
+	margin-top:80px;
+}
+ .nav-lg .nav-we img{
+ 	float: right;
+ }
+ .nav-bg{
+ 	width:100%;
+ 	height:300px;
+ 	background:#6BC048;  
+ }
+ .nav-bg .nav-ef{
+ 	width:1003px;
+ 	height:144px;
+ 	margin:0 auto;
+ }
+ .nav-bg .nav-ef .left{
+ 	width:734px;
+ 	height: 104px;
+ }
+ .nav-bg .nav-ef .left .sw{
+ 	width:734px;
+ 	height: 50px;
+ }
+ 
+ .nav-bg .nav-ef .left .sw a{
+ 	font-size:20px;
+ 	margin-left:10px;
+ 	color:#fff;
+ }
+ .nav-bg .nav-df{
+ 	margin-left:520px;
+ }
+ .nav-bg .nav-ew{
+ 	margin-left:300px;
+ 	margin-top: 20px;
+ 	color:#fff;
+ }
+ .nav-bg .nav-ew a{
+ 	color:#fff;
+ }
